@@ -35,3 +35,6 @@
 ![OforiHenry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OforiHenry&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OforiHenry&layout=compact&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=OforiHenry&theme=radical)
+
+
