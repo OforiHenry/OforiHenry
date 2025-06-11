@@ -30,7 +30,7 @@
 
 ---
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
+
 
 ![OforiHenry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OforiHenry&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OforiHenry&layout=compact&theme=radical)
