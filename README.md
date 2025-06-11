@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Ofori Henry Bempong!
+# 👋 Hi, I'm Ofori Henry Bempong!
 
 🎓 I'm a Computer Science student at **Ghana Communication Technology University**, Accra 🇬🇭  
 💻 Passionate about web development, backend systems & automation tools   
